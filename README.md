@@ -1,77 +1,70 @@
-# Hi, I'm Shantanu Awate 👋  
+# Hi, I'm Shantanu Awate 👋
 
-🚀 **Computer Science & Engineering Student (2021–2025)**  
-💻 Full-Stack & AI Developer • Pune, IN.  
+### **Full Stack Engineer | AWS Global Hackathon Winner 2025**
+**Building Autonomous Agents & Scalable Logistics Systems**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-shantanu--00.github.io-blue?style=flat&logo=google-chrome)](https://shantanu-00.github.io)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shantanuawate-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shantanuawate)  
-[![GitHub](https://img.shields.io/badge/GitHub-Shantanu--00-black?style=flat&logo=github)](https://github.com/Shantanu-00)  
-[![Email](https://img.shields.io/badge/Email-shantanu1.edu%40gmail.com-red?style=flat&logo=gmail)](mailto:shantanu1.edu@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-shantanu--00.github.io-blue?style=flat&logo=google-chrome)](https://shantanu-00.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shantanuawate-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shantanuawate)
+[![Email](https://img.shields.io/badge/Email-shantanu1.edu%40gmail.com-red?style=flat&logo=gmail)](mailto:shantanu1.edu@gmail.com)
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 CSE student with **8.61 CGPA** at SKNCOE, Pune  
-- 🧑‍💼 Former **Cybersecurity Lead @ GDSC**, organized secure coding workshops for 50+ students  
-- 🛠 Experienced in **Next.js, FastAPI, Docker, and AI/ML pipelines**  
-- ⚡ Passionate about building scalable, secure, and impactful products  
-- 🌱 Seeking **Software / AI Engineering** roles  
+I am a builder who specializes in **Autonomous Systems** and **Operational Automation**. I don't just write code; I architect systems that heal themselves and optimize complex real-world workflows.
+
+- 🏆 **Winner, AWS Global Hackathon 2025** for building self-healing AI infrastructure.
+- 🔭 Currently building **Agentic Workflows** that automate supply chain and logistics operations.
+- 🛠 Stack: **Next.js, FastAPI, AWS (Step Functions/Bedrock), GCP, & Gemini Nano.**
+- ⚡ Focus: Turning messy, manual processes into structured, autonomous software.
 
 ---
 
-## 🔭 Featured Projects
+## 🚀 Featured Engineering
 
-### 🚦 [PathSense — AI Route Optimization](https://github.com/Shantanu-00/PathSense)  
-*Next.js · FastAPI · Docker · OSRM/OSM · Leaflet*  
-- End-to-end **AI-driven route optimization** (35% shorter routes vs. naïve order)  
-- Implemented **Nearest Neighbor, 2-Opt, and Genetic Algorithm** optimization  
-- Dockerized local OSRM server → minimal external API costs  
-- **Live Demo:** [v0-path-sense.vercel.app](https://v0-path-sense.vercel.app)  
+### 🧬 [Darwinian Agent Engine]([https://github.com/Shantanu-00/Codex-Vitae](https://github.com/Shantanu-00/The-Darwinian-Engine-Self-Evolving-AI-Agents)) (AWS Hackathon Winner)
+*AWS Bedrock · Step Functions · EventBridge · DynamoDB*
+**A self-healing AI infrastructure where agents mutate and patch their own code.**
+- **Architecture:** Decoupled "Live Loop" (User Chat) from "Evolution Loop" (Model Training) to ensure zero downtime.
+- **Self-Healing:** Agents detect runtime errors, generate fixes (mutations), and hot-swap code in production.
+- **Impact:** Winner of the AWS Global Hackathon 2025.
 
----
+### 🧠 [Autonomic AI]([LINK_TO_YOUR_ORG_REPO_HERE](https://github.com/Autonomic-Ai-hackathon/Autonomic-AI))
+*GCP · Datadog · Monorepo · Docker*
+**The enterprise-grade evolution of the Darwinian Engine.**
+- **Observability:** Full integration with Datadog for tracing agent decision paths and tool usage.
+- **Infrastructure:** Built on a scalable GCP microservices architecture.
+- **Workflow:** Handles complex multi-agent orchestration for autonomous task execution.
 
-### 🛒 [E-commerce Platform](https://github.com/Shantanu-00/Ecommerce)  
-*React · Express.js · Tailwind · MySQL*  
-- Admin & Customer portals with **inventory management, cart, role-based flows**  
-- End-to-end order processing with **secure authentication**  
-- Responsive UI built with **TailwindCSS**  
+### 🚦 [PathSense - Logistics Engine](https://github.com/Shantanu-00/PathSense)
+*Next.js · FastAPI · OSRM · Genetic Algorithms*
+**An algorithmic route optimization engine for logistics.**
+- **Optimization:** implemented 2-Opt and Genetic Algorithms to reduce route distance by **35%**.
+- **Performance:** Dockerized local OSRM server to eliminate external API latency and costs.
+- **Live Demo:** [v0-path-sense.vercel.app](https://v0-path-sense.vercel.app)
 
----
-
-### 📚 [EduVisionAI — Study Enhancer](https://github.com/Shantanu-00/Study-Assistant)  
-*Python · OpenCV · YOLO · NLP*  
-- Built **attention/focus detection** + auto-summarization for personalized study  
-- Delivered prototype in a **4-member Agile team**  
-- Early metrics showed improved student efficiency  
+### 🛡️ [Crucible](https://github.com/Shantanu-00/crucible-chrome-extension)
+*Gemini Nano · Chrome Manifest V3 · IndexedDB*
+**Privacy-first user profiling engine running entirely on-device.**
+- **Edge AI:** Uses local Gemini Nano to synthesize browsing behavior without data leaving the browser.
+- **Architecture:** Zero-latency profiling pipeline using client-side storage.
 
 ---
 
 ## 🛠 Tech Toolbox
 
-**Languages:** C++, Python, JavaScript, SQL  
-**Web/Frameworks:** Next.js, React, Node.js, Express, FastAPI  
-**AI/ML:** Scikit-learn, Pandas, NumPy, OpenCV, YOLOv8  
-**Infra/Tools:** Docker, Linux, OSRM, OpenStreetMap, Leaflet, GitHub, Postman  
-
----
-
-## 🏆 Leadership & Initiatives
-- **Cybersecurity Lead @ GDSC**  
-   - Led team of 4, mentored juniors, and organized secure coding workshops for 50+ students  
+| Domain | Stack |
+| :--- | :--- |
+| **Agentic AI** | AWS Bedrock, Gemini Nano, LangChain, Step Functions |
+| **Backend** | Python (FastAPI), Node.js, Docker, PostgreSQL, DynamoDB |
+| **Frontend** | Next.js, React, TypeScript, TailwindCSS |
+| **Infra & Ops** | AWS (Lambda, EventBridge), GCP, Datadog, GitHub Actions |
 
 ---
 
 ## 📊 GitHub Stats
 
-![Shantanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shantanu-00&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shantanu-00&layout=compact&theme=tokyonight)  
+![Shantanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shantanu-00&show_icons=true&theme=tokyonight&hide=stars)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shantanu-00&layout=compact&theme=tokyonight)
 
 ---
-
-## 📫 Let’s Connect!
-- Portfolio: [shantanu-00.github.io](https://shantanu-00.github.io)  
-- LinkedIn: [linkedin.com/in/shantanuawate](https://www.linkedin.com/in/shantanuawate)  
-- Email: [shantanu1.edu@gmail.com](mailto:shantanu1.edu@gmail.com)  
-
----
-⭐️ From [Shantanu Awate](https://github.com/Shantanu-00)
+[Get in touch](https://www.linkedin.com/in/shantanuawate) to build something scalable.
