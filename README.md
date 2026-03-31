@@ -12,7 +12,7 @@
 ## 👨‍💻 About Me
 I am a builder who specializes in **Autonomous Systems** and **Operational Automation**. I don't just write code; I architect systems that heal themselves and optimize complex real-world workflows.
 
-- 🏆 **Winner, AWS Global Hackathon 2025** for building self-healing AI infrastructure.
+- 🏆 **Winner, AWS Global Hackathon 2025** for building self-healing AI infrastructure[https://dorahacks.io/hackathon/awsvibecoding/winner].
 - 🔭 Currently building **Agentic Workflows** that automate supply chain and logistics operations.
 - 🛠 Stack: **Next.js, FastAPI, AWS (Step Functions/Bedrock), GCP, & Gemini Nano.**
 - ⚡ Focus: Turning messy, manual processes into structured, autonomous software.
